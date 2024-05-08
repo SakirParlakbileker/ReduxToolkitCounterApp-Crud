@@ -4,7 +4,8 @@ This application utilizes Redux Toolkit for state management and React Router fo
 
 ## GIF
 
-![Screen_Recording_2024-02-27_at_10_39_04_AdobeExpress-ezgif com-video-to-gif-converter](https://github.com/tubayapa/Redux-Toolkit-Crud-Counter-App/assets/147662888/c4267331-63cd-445e-b4c6-59f151aea847)
+![308138982-c4267331-63cd-445e-b4c6-59f151aea847](https://github.com/SakirParlakbileker/ReduxToolkitCounterApp-Crud/assets/147662891/d1887fff-157e-48d9-8aca-7f1105dce80c)
+
 
 
 ## Counter Page (CounterPage.js)
